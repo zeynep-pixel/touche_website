@@ -28,6 +28,9 @@
       <button @click="navigateToNavbarbutton9" class="sidebar-button">
          Filters
       </button>
+      <button @click="navigateToNavbarbutton10" class="sidebar-button">
+        Card2
+      </button>
     </div>
    
     </div>
@@ -67,6 +70,9 @@
   };
   const navigateToNavbarbutton9 = () => {
     router.push('/filters');
+  };
+  const navigateToNavbarbutton10 = () => {
+    router.push('/card2');
   };
   
   </script>
