@@ -5,7 +5,7 @@
         <div class="accordion-item">
           <div class="accordion-header">
            
-              <span class="accordion-title">Tahmini Teslimat: 06 Aralık - 09 Aralık</span>
+              <span class="accordion-title">Tahmini Teslimat: 07 Aralık - 09 Aralık</span>
              
           </div>
           
