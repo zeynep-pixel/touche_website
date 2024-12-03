@@ -31,13 +31,12 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh; /* Sayfa yüksekliği boyunca ortalama */
+  height: 100vh; 
   padding: 20px;
   flex-direction: column;
 }
 
 form {
-  width: 350px; /* Form genişliği */
 }
 
 .form-title {
@@ -62,7 +61,7 @@ form {
 }
 
 .password-container input {
-  padding-left: 220px; /* Placeholder'ı sağda göstermek için padding */
+  padding-left: 220px; 
 }
 
 .password-container input::placeholder {
@@ -77,9 +76,9 @@ form {
 }
 
 .btn-submit {
-  background-color: black; /* Giriş Yap butonunu siyah yapmak */
+  background-color: black; 
   color: white;
-  width: 100px; /* Butonları aynı satıra yerleştirmek için */
+  width: 100px;
   padding: 10px;
   border: none;
   cursor: pointer;
@@ -91,11 +90,11 @@ form {
 }
 
 .btn-register {
-  background-color: white; /* Üye Ol butonunun arka planı beyaz olacak */
-  color: black; /* Yazı siyah olacak */
-  width: 100px; /* Butonları aynı satıra yerleştirmek için */
+  background-color: white; 
+  color: black;
+  width: 100px; 
   padding: 10px;
-   /* Kenarları siyah olacak */
+
   
 }
 
