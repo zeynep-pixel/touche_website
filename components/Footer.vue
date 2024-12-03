@@ -31,6 +31,14 @@
           A.Ş.’nin tarafıma ticari elektronik ileti göndermesine
           <a href="#" class="link">burada</a> belirtilen izni veriyorum.
         </label>
+        <div class="d-flex justify-content-center mt-3">
+            <a href="#" class="mx-2"><i class="fab fa-facebook fa-2x"></i></a>
+            <a href="#" class="mx-2"><i class="fab fa-instagram fa-2x"></i></a>
+            <a href="#" class="mx-2"><i class="fab fa-tiktok fa-2x"></i></a>
+            <a href="#" class="mx-2"><i class="fab fa-pinterest fa-2x"></i></a>
+            <a href="#" class="mx-2"><i class="fab fa-whatsapp fa-2x"></i></a>
+            <a href="#" class="mx-2"><i class="fab fa-linkedin fa-2x"></i></a>
+        </div>
       </div>
     </div>
   </div>
@@ -158,5 +166,8 @@
   text-align: left;
   font-size: 12px;
   color: #6c757d;
+}
+a i {
+  color: rgb(92, 92, 92);/* Instagram pink */
 }
 </style>

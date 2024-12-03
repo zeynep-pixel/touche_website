@@ -12,10 +12,15 @@ export default defineNuxtConfig({
         {
           rel: 'stylesheet',
           href: 'https://fonts.googleapis.com/icon?family=Material+Symbols+Outlined',
-        }
+        },
+        {
+          rel: 'stylesheet',
+          href: 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css', // Add Font Awesome here
+        },
       ],
     },
   },
+  
   css: [
     'bootstrap/dist/css/bootstrap.css'
   ],

@@ -14,7 +14,7 @@
         Login
       </button>
       <button @click="navigateToNavbarbutton5" class="sidebar-button">
-         ProductDetail
+         ProDetail
       </button>
       <button @click="navigateToNavbarbutton6" class="sidebar-button">
          Accordion
@@ -22,8 +22,16 @@
       <button @click="navigateToNavbarbutton7" class="sidebar-button">
          Stores
       </button>
+      <button @click="navigateToNavbarbutton8" class="sidebar-button">
+         Contact
+      </button>
+      <button @click="navigateToNavbarbutton9" class="sidebar-button">
+         Filters
+      </button>
     </div>
-</div>
+   
+    </div>
+
   </template>
   
   <script setup>
@@ -54,7 +62,12 @@
   const navigateToNavbarbutton7 = () => {
     router.push('/stores');
   };
-  
+  const navigateToNavbarbutton8 = () => {
+    router.push('/contact');
+  };
+  const navigateToNavbarbutton9 = () => {
+    router.push('/filters');
+  };
   
   </script>
   

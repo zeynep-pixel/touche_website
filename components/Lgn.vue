@@ -36,8 +36,7 @@
   flex-direction: column;
 }
 
-form {
-}
+
 
 .form-title {
   font-size: 24px;
