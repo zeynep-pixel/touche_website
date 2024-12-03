@@ -29,7 +29,7 @@ const stores = [
   {
     id: 2,
     name: "TOUCHÉ ADANA",
-    address: "Mafesığmaz Mahallesi Turgut Özal Bulvarı 79154 Sokak No:2 Genç Osman Apt. Çukurova/Adana",
+    address: "Mafesığmaz Mahallesi Turgut Özal Bulvarı 79154 Sokak No:3 Genç Osman Apt. Çukurova/Adana",
     phone: "0501 140 48 68",
   },
   {
