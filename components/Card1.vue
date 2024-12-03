@@ -6,7 +6,7 @@
           <div class="carousel-image-container">
             <img src="https://toucheprive.com/cdn/shop/files/23F1XD83_103_23F_01_01_e307566e-9422-4094-af70-92ccee3d9153_720x.jpg?v=1732872843" class="d-block w-100" alt="...">
             <div class="size-box">
-              <p>S M L</p>
+              <p>S   M   L</p>
             </div>
           </div>
           <div class="product-info">
