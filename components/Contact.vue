@@ -26,7 +26,7 @@
                 <tr class="divider"></tr>
                 <tr>
                     <th scope="row">Kep:</th>
-                    <td><a href="mailto:touchetekstil@hs03.kep.tr">touchetekstil@hs03.kep.tr</a></td>
+                    <td><a href="mailto:touchetekstil@hs03.kep.tr">touchetekstil@hs003.kep.tr</a></td>
                 </tr>
             </tbody>
         </table>
