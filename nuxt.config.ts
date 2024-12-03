@@ -16,15 +16,8 @@ export default defineNuxtConfig({
       ],
     },
   },
-
   css: [
-    'swiper/css'  // Eğer başka bir carousel veya swiper kullanıyorsanız burada belirtilebilir
+    'bootstrap/dist/css/bootstrap.css'
   ],
 
-  build: {
-    transpile: ['vue3-carousel'],  // vue3-carousel için transpile işlemi gerekebilir
-  }
 })
-
-
-          
