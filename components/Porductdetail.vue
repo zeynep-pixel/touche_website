@@ -1,7 +1,7 @@
 <template>
     <div class="container product-detail">
       <div class="row">
-        <!-- Ürün Başlık ve Açıklama -->
+      
         <div class="col-12">
           <h6 class="text-uppercase">ÇOK SATANLAR</h6>
           <h2 class="product-title">DİK YAKA BASIC TRİKO KAZAK</h2>
@@ -15,7 +15,7 @@
       </div>
   
       <div class="row align-items-center">
-        <!-- Ürün Özellikleri -->
+      
         <div class="col-6">
           <p><strong>Bordo</strong> | 23F1XD83</p>
           <div class="color-options">
@@ -30,7 +30,7 @@
       </div>
   
       <div class="row">
-        <!-- Beden Seçenekleri -->
+       
         <div class="col-12 size-options">
           <button class="btn btn-outline-dark">S</button>
           <button class="btn btn-outline-dark">M</button>
@@ -39,16 +39,16 @@
       </div>
   
       <div class="row mt-3">
-        <!-- Vade Farkı Mesajı -->
+        
         <div class="col-12">
           <p class="installment-info">
-            <i class="bi bi-credit-card"></i> VADE FARKSIZ PEŞİN FİYATINA 3 TAKSİT FIRSATI!
+            <i class="bi bi-credit-card"></i> VADE FARKSIZ PEŞİN FİYATINA 3 TAKSİT FIRSATI!!
           </p>
         </div>
       </div>
   
       <div class="row mt-4">
-        <!-- Sepete Ekle Butonu -->
+       
         <div class="col-12">
           <button class="btn btn-dark w-100">SEPETE EKLE</button>
         </div>
